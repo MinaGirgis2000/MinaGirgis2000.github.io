@@ -17,12 +17,6 @@
         <span class="contact-info p-name">{{ site.author | escape }}</span>
       </li>
     {%- endif %}
-    {% if site.location -%}
-      <li>
-        <i class="sidebar-icon fas fa-location-dot"></i>
-        <span class="contact-info u-location">{{ site.location | escape }}</span>
-      </li>
-    {%- endif %}
     {% if site.email -%}
       <li>
         <i class="sidebar-icon fas fa-envelope"></i>
@@ -31,7 +25,7 @@
     {%- endif %}
     {% if site.location -%}
       <li>
-        <i class="sidebar-icon fas fa-location-arrow"></i>
+        <i class="sidebar-icon fa-solid fa-location-dot"></i>
         <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>
       </li>
     {%- endif %}
