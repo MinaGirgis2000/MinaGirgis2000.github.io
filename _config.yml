@@ -12,7 +12,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
-skin: solarized-light
+skin: solarized-dark
 
 # Jekyll
 # ======
