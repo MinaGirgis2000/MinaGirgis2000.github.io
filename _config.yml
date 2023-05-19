@@ -1,8 +1,9 @@
 title: Mina Girgis
 description: Mina Girgis' Personal Website
 author: Mina Girgis
-avatar: /assets/images/logo.png
 email: minagirgis1231@gmail.com
+location: New Jersey, United States
+avatar: /assets/images/logo.png
 
 plugins:
   - jekyll-seo-tag
