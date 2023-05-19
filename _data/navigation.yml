@@ -8,7 +8,9 @@
   url: /faq/
 - title: More
   sublinks:
-    - title: Resume
-      url: /resume/
-    - title: Docs
-      url: /docs/
+    - title: CV
+      url: /cv/
+    - title: Awards
+      url: /awards/
+    - title: School
+      url: /school/
