@@ -224,9 +224,9 @@ $link-base-color: $lm-link-base-color;
 $link-visited-color: $lm-link-visited-color;
 $link-hover-color: $lm-link-hover-color;
 
-$border-color-01: $lm-border-color-01;
-$border-color-02: $lm-border-color-02;
-$border-color-03: $lm-border-color-03;
+$border-color: $lm-border-color-01;
+$border-color-light: $lm-border-color-02;
+$border-color-dark: $lm-border-color-03;
 
 $table-text-color: $lm-table-text-color;
 $table-zebra-color: $lm-table-zebra-color;
@@ -240,9 +240,9 @@ $table-border-color: $lm-table-border-color;
   // Auto mode
 
   :root {
-    --minima-brand-color: #{$lm-brand-color};
-    --minima-brand-color-light: #{$lm-brand-color-light};
-    --minima-brand-color-dark: #{$lm-brand-color-dark};
+    --minima-text-color: #{$lm-brand-color};
+    --minima-text-color-light: #{$lm-brand-color-light};
+    --minima-text-color-dark: #{$lm-brand-color-dark};
 
     --minima-site-title-color: #{$lm-site-title-color};
 
@@ -254,9 +254,9 @@ $table-border-color: $lm-table-border-color;
     --minima-link-visited-color: #{$lm-link-visited-color};
     --minima-link-hover-color: #{$lm-link-hover-color};
 
-    --minima-border-color-01: #{$lm-border-color-01};
-    --minima-border-color-02: #{$lm-border-color-02};
-    --minima-border-color-03: #{$lm-border-color-03};
+    --minima-border-color: #{$lm-border-color-01};
+    --minima-border-color-light: #{$lm-border-color-02};
+    --minima-border-color-dark: #{$lm-border-color-03};
 
     --minima-table-text-color: #{$lm-table-text-color};
     --minima-table-zebra-color: #{$lm-table-zebra-color};
@@ -269,9 +269,9 @@ $table-border-color: $lm-table-border-color;
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --minima-brand-color: #{$dm-brand-color};
-      --minima-brand-color-light: #{$dm-brand-color-light};
-      --minima-brand-color-dark: #{$dm-brand-color-dark};
+      --minima-text-color: #{$dm-brand-color};
+      --minima-text-color-light: #{$dm-brand-color-light};
+      --minima-text-color-dark: #{$dm-brand-color-dark};
 
       --minima-site-title-color: #{$dm-site-title-color};
 
@@ -283,9 +283,9 @@ $table-border-color: $lm-table-border-color;
       --minima-link-visited-color: #{$dm-link-visited-color};
       --minima-link-hover-color: #{$dm-link-hover-color};
 
-      --minima-border-color-01: #{$dm-border-color-01};
-      --minima-border-color-02: #{$dm-border-color-02};
-      --minima-border-color-03: #{$dm-border-color-03};
+      --minima-border-color: #{$dm-border-color-01};
+      --minima-border-color-light: #{$dm-border-color-02};
+      --minima-border-color-dark: #{$dm-border-color-03};
 
       --minima-table-text-color: #{$dm-table-text-color};
       --minima-table-zebra-color: #{$dm-table-zebra-color};
@@ -297,9 +297,9 @@ $table-border-color: $lm-table-border-color;
     @include dm-highlight;
   }
 
-  $brand-color: var(--minima-brand-color);
-  $brand-color-light: var(--minima-brand-color-light);
-  $brand-color-dark: var(--minima-brand-color-dark);
+  $text-color: var(--minima-brand-color);
+  $text-color-light: var(--minima-brand-color-light);
+  $text-color-dark: var(--minima-brand-color-dark);
 
   $site-title-color: var(--minima-site-title-color);
 
@@ -311,9 +311,9 @@ $table-border-color: $lm-table-border-color;
   $link-visited-color: var(--minima-link-visited-color);
   $link-hover-color: var(--minima-link-hover-color);
 
-  $border-color-01: var(--minima-border-color-01);
-  $border-color-02: var(--minima-border-color-02);
-  $border-color-03: var(--minima-border-color-03);
+  $border-color: var(--minima-border-color-01);
+  $border-color-light: var(--minima-border-color-02);
+  $border-color-dark: var(--minima-border-color-03);
 
   $table-text-color: var(--minima-table-text-color);
   $table-zebra-color: var(--minima-table-zebra-color);
@@ -326,9 +326,9 @@ $table-border-color: $lm-table-border-color;
 
   // Dark skin (always dark mode)
 
-  $brand-color: $dm-brand-color;
-  $brand-color-light: $dm-brand-color-light;
-  $brand-color-dark: $dm-brand-color-dark;
+  $text-color: $dm-brand-color;
+  $text-color-light: $dm-brand-color-light;
+  $text-color-dark: $dm-brand-color-dark;
 
   $site-title-color: $dm-site-title-color;
 
@@ -340,9 +340,9 @@ $table-border-color: $lm-table-border-color;
   $link-visited-color: $dm-link-visited-color;
   $link-hover-color: $dm-link-hover-color;
 
-  $border-color-01: $dm-border-color-01;
-  $border-color-02: $dm-border-color-02;
-  $border-color-03: $dm-border-color-03;
+  $border-color: $dm-border-color-01;
+  $border-color-light: $dm-border-color-02;
+  $border-color-dark: $dm-border-color-03;
 
   $table-text-color: $dm-table-text-color;
   $table-zebra-color: $dm-table-zebra-color;
