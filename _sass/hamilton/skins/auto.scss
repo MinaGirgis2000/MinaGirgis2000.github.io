@@ -238,7 +238,11 @@ $table-border-color: $lm-table-border-color;
 @if $color-scheme-auto {
 
   // Auto mode
+  $pre-shadow:            0 0 4px rgba(34,34,34,0.4) inset !default;
+  $dropdown-shadow:       0px 8px 16px 0px rgba(0,0,0,0.2) !default;
 
+  $subscribe-color:       #004e00 !default
+  
   :root {
     --minima-text-color: #{$lm-brand-color};
     --minima-text-color-light: #{$lm-brand-color-light};
@@ -263,11 +267,6 @@ $table-border-color: $lm-table-border-color;
     --minima-table-header-bg-color: #{$lm-table-header-bg-color};
     --minima-table-header-border: #{$lm-table-header-border};
     --minima-table-border-color: #{$lm-table-border-color};
-
-    $pre-shadow:            0 0 4px rgba(34,34,34,0.4) inset !default;
-    $dropdown-shadow:       0px 8px 16px 0px rgba(0,0,0,0.2) !default;
-
-    $subscribe-color:       #004e00 !default;
   }
 
   @include lm-highlight;
