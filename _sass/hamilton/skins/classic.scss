@@ -2,4 +2,10 @@
 
 $color-scheme-auto: false;
 $color-scheme-dark: false;
+
+$pre-shadow:            0 0 4px rgba(17,17,17,0.4) inset !default;
+$dropdown-shadow:       0px 8px 16px 0px rgba(0,0,0,0.2) !default;
+
+$subscribe-color:       #b21000 !default;
+
 @import "hamilton/skins/auto";
