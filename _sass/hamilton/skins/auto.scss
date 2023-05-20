@@ -224,8 +224,8 @@ $link-base-color: $lm-link-base-color;
 $link-visited-color: $lm-link-visited-color;
 $link-hover-color: $lm-link-hover-color;
 
-$border-color: $lm-border-color-01;
-$border-color-light: $lm-border-color-02;
+$border-color-light: $lm-border-color-01;
+$border-color: $lm-border-color-02;
 $border-color-dark: $lm-border-color-03;
 
 $table-text-color: $lm-table-text-color;
@@ -309,9 +309,9 @@ $table-border-color: $lm-table-border-color;
   $link-visited-color: var(--minima-link-visited-color);
   $link-hover-color: var(--minima-link-hover-color);
 
-  $border-color: var(--minima-border-color-01);
+  $border-color-dark: var(--minima-border-color-01);
   $border-color-light: var(--minima-border-color-02);
-  $border-color-dark: var(--minima-border-color-03);
+  $border-color: var(--minima-border-color-03);
 
   $table-text-color: var(--minima-table-text-color);
   $table-zebra-color: var(--minima-table-zebra-color);
@@ -343,9 +343,9 @@ $table-border-color: $lm-table-border-color;
   $link-visited-color: $dm-link-visited-color;
   $link-hover-color: $dm-link-hover-color;
 
-  $border-color: $dm-border-color-01;
+  $border-color-dark: $dm-border-color-01;
   $border-color-light: $dm-border-color-02;
-  $border-color-dark: $dm-border-color-03;
+  $border-color: $dm-border-color-03;
 
   $table-text-color: $dm-table-text-color;
   $table-zebra-color: $dm-table-zebra-color;
