@@ -8,7 +8,7 @@ I am a current sophomore in East Brunswick High School. I have taken a lot of cl
 
 These are the classes that I took so far in my freshman and sophomore years:
 
-**_DISCLAIMER:_** My school does not allow me to take AP classes for some subjects not until I complete the honors level of the class such as with Science, English, German, and some electives.
+**_DISCLAIMER:_** My school does not allow me to take AP classes for some subjects not until I complete the honors level of the class such as with Science and some electives.
 
 9th Grade:
 - Science: Biology H
