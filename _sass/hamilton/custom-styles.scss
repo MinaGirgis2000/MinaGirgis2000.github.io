@@ -1,1 +1,4 @@
 // Placeholder to allow customizing styles.
+$text-color:            #bbbbbb !default;
+$text-color-light:      lighten($text-color, 5%) !default;
+$text-color-dark:       darken($text-color, 35%) !default;
