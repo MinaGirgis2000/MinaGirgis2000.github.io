@@ -1,6 +1,16 @@
 // Placeholder to allow customizing styles.
-$text-color:            #bbbbbb !default;
-$text-color-light:      lighten($text-color, 5%) !default;
-$text-color-dark:       darken($text-color, 35%) !default;
 
 $link-base-color:       #0040c9 !default;
+$link-visited-color:    darken($link-base-color, 5%) !default;
+
+a {
+    color: $link-base-color;
+  
+    &:visited {
+      color: $link-visited-color;
+    }
+  
+    &:hover {
+      color: $text-color;
+    }
+  }
