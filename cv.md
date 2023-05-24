@@ -17,6 +17,7 @@ toc: true
 #### Volunteer Service:
 - As a Scout member, the volunteer service is considered as one of many major requirements throughout the journey. I volunteered in many community services through the county, city, and the church.
 - Many of the services include cleaning the church, cooking for the needy, beach sweeping, weeding, etc.
+- Butterfly Effect Kindess Project: A school program where I volunteer to head an event to spread kindness amongst the people in my community. My event was called ChalkToWalk, where we used chalk to fill the pavements with kind words.
 
 #### School:
 - I am a registered member in many clubs in school, such as Code Club and German Honor Society.
