@@ -1,7 +1,14 @@
 ---
 ---
 
+@if site.theme == 'hamilton' {
 @import 
   "hamilton/skins/{{ site.skin | default: 'daylight' }}",
   "hamilton/skin"
 ;
+} @else if site.theme == 'minima' {
+  @import 
+    "minima/skins/{{ site.skin | default: 'auto' }}",
+    "minima/skin"
+  ;
+}
