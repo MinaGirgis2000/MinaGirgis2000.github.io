@@ -8,7 +8,7 @@
 ;
 } @else if site.theme == 'minima' {
   @import 
-    "minima/skins/{{ site.skin | default: 'auto' }}",
-    "minima/skin"
+    "_sass/minima/skins/{{ site.skin | default: 'auto' }}",
+    "_sass/minima/skin"
   ;
 }
