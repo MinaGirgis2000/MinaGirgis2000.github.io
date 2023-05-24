@@ -6,6 +6,9 @@ author:
   - Mina Girgis
 ---
 
+This post is for an assignment I have in my AP Computer Science A class in school.
+What are three things I've done in my high school career that I am proud of? Each one should be a paragraph description long.
+
 ### 1. Getting into programming as a freshman
 Last year, during my 9th-grade year, I ventured into the world of programming, and it turned out to be a transformative experience. It not only ignited a passion within me but also provided clarity about my future career aspirations. Exploring the intricacies of coding allowed me to discover my true calling. Moreover, delving into this field presented me with the opportunity to forge connections with like-minded individuals who shared my enthusiasm for programming. Together, we embarked on a journey of knowledge and growth. Programming also served as a constant challenge, pushing the boundaries of my critical thinking skills and forcing me to approach problems with creativity and logic. This newfound endeavor has undoubtedly shaped my perspective and opened doors to a world of possibilities.
 
