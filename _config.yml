@@ -27,7 +27,7 @@ exclude:
 twitter:
   username: minagirgis1231
   card: summary
-logo: logo.png
+logo: /assets/images/logo.png
 social:
   name: Mina Girgis
   links:
