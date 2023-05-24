@@ -12,6 +12,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
+
 theme: minima
 skin: dark
 
