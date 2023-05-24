@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+toc: true
 ---
 
 ## Experience:
@@ -10,6 +11,7 @@ permalink: /cv/
 - I was elected to be the Patrol Leader for a (1) year term, in charge of a whole patrol during scout meetings, campouts, and activities.
 - I have also been elected to be a Senior Patrol Leader for a (1) year term, representing the troop during meetings and ceremonies and I have been planning with the Scoutmasters to for yearly agendas, activities and campouts.
 - In addition, I am currently playing the role of Troop Guide in the troop in which I am responsible for teaching and guiding the junior scout members through scouting skills and requirements to get into the scout environment.
+- I have also attented and taught a course for Introduction to Leadership Skills in Troops (ILST) which taught me how to make clever decisions as a leader in my troop.
 - I am also on my way into achieving my Eagle Scout rank, which is the highest rank in the Scouting program, through the completion of the Eagle Project. The project requires many arrangements and requires my leadership over a large group of volunteers to implement it my project in a chosen community.
 
 #### Volunteer Service:
