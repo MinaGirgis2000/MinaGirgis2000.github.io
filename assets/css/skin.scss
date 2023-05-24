@@ -2,13 +2,13 @@
 ---
 
 @if site.theme == 'hamilton' {
-@import 
-  "hamilton/skins/{{ site.skin | default: 'daylight' }}",
-  "hamilton/skin"
-;
-} @else if site.theme == 'minima' {
   @import 
-    "_sass/minima/skins/{{ site.skin | default: 'auto' }}",
-    "_sass/minima/skin"
+    "hamilton/skins/{{ site.skin | default: 'daylight' }}",
+    "hamilton/skin"
+  ;
+} @else if site.theme == 'minima' {
+  @import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize"
   ;
 }
