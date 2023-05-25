@@ -1,10 +1,11 @@
 ---
 ---
+{
+  @import "{{ site.theme }}/skins/{{ site.skin }}";
 
-@if $site.theme == 'hamilton' {
-  @import "hamilton/skins/#{site.skin | default: 'daylight'}";
-  @import "hamilton/skin";
-} @else if $site.theme == 'minima' {
-  @import "minima/skins/#{site.minima.skin | default: 'classic'}";
-  @import "minima/initialize";
+  @if '{{ site.theme }}' == 'hamilton' {
+    @import "hamilton/skin";
+  } @else if '{{ site.theme }}' == 'minima' {
+    @import "minima/initialize";
+  }
 }

@@ -1,8 +1,9 @@
 ---
 ---
-
-@if site.theme == 'hamilton' {
+{
+  @if '{{ site.theme }}' == 'hamilton' {
     @import "hamilton/main";
-  } @else if site.theme == 'minima' {
+  } @else if '{{ site.theme }}' == 'minima' {
     @import "minima/initialize";
   }
+}
