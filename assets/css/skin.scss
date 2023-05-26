@@ -1,11 +1,10 @@
 ---
 ---
-{
-  @import "{{ site.theme }}/skins/{{ site.skin }}";
 
-  @if '{{ site.theme }}' == 'hamilton' {
-    @import "hamilton/skin";
-  } @else if '{{ site.theme }}' == 'minima' {
-    @import "minima/initialize";
-  }
+@import "{{ site.theme }}/skins/{{ site.skin }}";
+
+@if '{{ site.theme }}' == 'hamilton' {
+  @import "hamilton/skin";
+} @else if '{{ site.theme }}' == 'minima' {
+  @import "minima/initialize";
 }
