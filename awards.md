@@ -57,8 +57,8 @@ td, th {
 
 - I have also earned other miscellaneous awards including:
 
-| | Award |
+| | |
 | :-: | --- |
-| <img src="/assets/images/scouts/cyberChip.webp" width=300> | Cyber Chip |
+| <img src="/assets/images/scouts/cyberChip.webp" width=150> | Cyber Chip |
 | <img src="/assets/images/scouts/totinChip.png" width=200> | Totin' Chip |
 | <img src="/assets/images/scouts/firemenChit.png" width=200> | Firem'n Chit |
