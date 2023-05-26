@@ -29,6 +29,11 @@ permalink: /awards/
     - I am currently working my way into getting the rank of Eagle which is the last and hardest rank to earn in Scouting.
 
 - I have also earned 32 merit badges in Scouting so far that include:
+Eagle Required                                                         |                           |
+---------------------------------------------------------------------- | ------------------------- |
+<img src="/assets/images/scouts/citizenchipInTheNation.png" width=100> | Citizenship in the Nation |
+<img src="/assets/images/scouts/swimming.png" width=100>               | Swimming                  |
+
     - Eagle Required:
         - Citizenship in the Nation <img src="/assets/images/scouts/citizenchipInTheNation.png" width=100>
         - Swimming <img src="/assets/images/scouts/swimming.png" width=100>
@@ -39,7 +44,7 @@ permalink: /awards/
         - Cycling <img src="/assets/images/scouts/cycling.png" width=100>
         - First Aid <img src="/assets/images/scouts/firstAid.png" width=100>
         - Emergency Preparedness <img src="/assets/images/scouts/emergencyPreparedness.png" width=100>
-        - Communication <img src="/assets/images/scouts/communication.jpg" width=100>
+        - Communication <img src="/assets/images/scouts/communication.png" width=100>
         - Personal Fitness <img src="/assets/images/scouts/personalFitness.png" width=100>
     - Non-required:
         - American Heritage <img src="/assets/images/scouts/americanHeritage.png" width=100>
@@ -47,7 +52,7 @@ permalink: /awards/
         - Collections <img src="/assets/images/scouts/collections.png" width=100>
         - Disabilities Awareness <img src="/assets/images/scouts/disabilitiesAwareness.png" width=100>
         - Reading <img src="/assets/images/scouts/reading.png" width=100>
-        - Scholarship <img src="/assets/images/scouts/scholarship.jpg" width=100>
+        - Scholarship <img src="/assets/images/scouts/scholarship.png" width=100>
         - Programming <img src="/assets/images/scouts/programming.png" width=100>
         - Orienteering <img src="/assets/images/scouts/orienteering.png" width=100>
         - Skating <img src="/assets/images/scouts/skating.png" width=100>
@@ -67,4 +72,4 @@ permalink: /awards/
 - I have also earned other miscellaneous awards including:
     - Cyber Chip <img src="/assets/images/scouts/cyberChip.webp" width=100>
     - Totin' Chip <img src="/assets/images/scouts/totinChip.png" width=100>
-    - Firem'n Chit <img src="/assets/images/scouts/firmenChit.png" width=100>
+    - Firem'n Chit <img src="/assets/images/scouts/firemenChit.png" width=100>
