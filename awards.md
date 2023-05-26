@@ -29,6 +29,7 @@ permalink: /awards/
     - I am currently working my way into getting the rank of Eagle which is the last and hardest rank to earn in Scouting.
 
 - I have also earned 32 merit badges in Scouting so far that include:
+
 Eagle Required | Name |
 --- | --- |
 <img src="/assets/images/scouts/citizenchipInTheNation.png" width=100> | Citizenship in the Nation |
