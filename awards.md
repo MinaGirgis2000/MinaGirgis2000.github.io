@@ -13,7 +13,7 @@ td, th {
 #### CyberStart:
 
 |  |  |
-| --- | --- |
+| --- | :-: |
 | I have gained a $3000 scholarship from Cyberstart America to get training at SANS Foundation as a National Cyber Scholar and Semifinalist | <img src="/assets/images/cyberstart-america/NationalCyberScholar.png" width=200> <img src="/assets/images/cyberstart-america/NationalCyberSemifinalist.png" width=200> |
 | I got the Cyberstart Bronze Award for getting at least 20,000 points from completing the challenges. I got approximately 45,000 points so far. | <img src="/assets/images/cyberstart-america/CyberStartBronzeAward.png" width=200> |
 
@@ -32,7 +32,7 @@ td, th {
 - I have also earned 32 merit badges in Scouting so far that include:
 
 |  | Eagle Required |  | Non-Required |
-| --- | :-- | --- | :-- |
+| :-: | --- | :-: | --- |
 | <img src="/assets/images/scouts/citizenchipInTheNation.png" width=100> | Citizenship in the Nation | <img src="/assets/images/scouts/americanHeritage.png" width=100> | American Heritage |
 | <img src="/assets/images/scouts/swimming.png" width=100> | Swimming | <img src="/assets/images/scouts/law.png" width=100> | Law |
 | <img src="/assets/images/scouts/personalManagement.png" width=100> | Personal Management | <img src="/assets/images/scouts/collections.png" width=100> | Collections |
@@ -58,7 +58,7 @@ td, th {
 - I have also earned other miscellaneous awards including:
 
 | | Award |
-| --- | :-- |
+| :-: | --- |
 | <img src="/assets/images/scouts/cyberChip.webp" width=300> | Cyber Chip |
 | <img src="/assets/images/scouts/totinChip.png" width=200> | Totin' Chip |
 | <img src="/assets/images/scouts/firemenChit.png" width=200> | Firem'n Chit |
