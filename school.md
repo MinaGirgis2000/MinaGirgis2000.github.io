@@ -4,7 +4,7 @@ title: School
 permalink: /school/
 ---
 
-I am a current sophomore in East Brunswick High School. I have taken a lot of classes through my education that have impacted my knowledge on the world around me.
+I am a 15 year-old sophomore. I have taken a lot of classes through my education that have impacted my knowledge on the world around me.
 
 These are the classes that I took so far in my freshman and sophomore years:
 
