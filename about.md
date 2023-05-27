@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hey, I'm Mina👋
 
-I am a sophomore attending East Brunswick High School, where I am passionate about exploring the fascinating world of technology and artificial intelligence. From a young age, I've been captivated by the possibilities that these fields offer, and I'm constantly seeking ways to expand my knowledge and skills.
+I am a sophomore in New Jersey. I am passionate about exploring the fascinating world of technology and artificial intelligence. From a young age, I've been captivated by the possibilities that these fields offer, and I'm constantly seeking ways to expand my knowledge and skills.
 
 As a self-taught programmer, I have delved into several programming languages, including Python, Java, HTML, CSS, and JavaScript. Through countless hours of dedication and hands-on practice, I've developed a strong foundation in these languages, allowing me to bring ideas to life through coding.
 
