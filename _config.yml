@@ -13,7 +13,7 @@ plugins:
 
 paginate: 10
 
-skin: daylight
+skin: midnight
 
 # Jekyll
 # ======
